@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="title_home">Danh sách nhạc</string>
+    <string name="title_dashboard">Play</string>
+    <string name="title_notifications">Cài đặt</string>
+</resources>
